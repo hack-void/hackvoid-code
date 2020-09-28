@@ -10,4 +10,5 @@ The idea of this project is to create a custom code capable of the same things a
 
 # Usage
 Simple usage: python3 compiler.py <input_file> <output_file>
+
 Help menu: python3 compiler.py
